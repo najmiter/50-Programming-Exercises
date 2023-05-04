@@ -5,4 +5,4 @@ So, I assembled these 50+ programming exercises for beginners with their solutio
 
 I highly recommend that you (try to) solve each problem by yourself before watching me solve it first. Then compare your solution with mine (and maybe yours would be better 😉)
 
-[![Polish Your Coding Skills With These 50 Programming Exercises & Solutions Explained (Urdu / Hindi)](https://user-images.githubusercontent.com/85332859/236118655-54eec408-083e-41d7-93ba-8c49fb711a45.png)](https://www.youtube.com/watch?v=RuoeZTrHjrc)
+[![Polish Your Coding Skills With These 50 Programming Exercises & Solutions Explained (Urdu / Hindi)](https://user-images.githubusercontent.com/85332859/236119406-b725c34f-b658-4e7a-be50-342cf4608e2c.png)](https://www.youtube.com/watch?v=RuoeZTrHjrc)
