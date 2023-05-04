@@ -1,1 +1,6 @@
-# 50-Programming-Exercises
+# 50 Programming Exercises
+Skills such as programming are only possible to gain via practice. Of course, you learn from books and lectures but if there's no implementation of what you learn, no matter how good you are at learning and remembering your lesson, it will just fade out.
+
+So, I assembled these 50+ programming exercises for beginners with their solutions explained in detail in Urdu / Hindi. This kind of activity will force to become a better and better programmer until eventually, you become an expert.
+
+I highly recommend that you (try to) solve each problem by yourself before watching me solve it first. Then compare your solution with mine (and maybe yours would be better 😉)
