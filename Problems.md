@@ -24,6 +24,34 @@ Write a `C++` program that converts lower-case characters in a `string` to upper
 Write a `C++` program to check if a number is `prime` or not. Then write another function that takes boundaries and prints all the prime numbers between those boundaries.
 ## Problem #12
 Write a `C++` program that prints the `nth` term of the `Fibonacci Series`. Then write another function that prints the first `n` terms of the `Fibonacci Series`.
+## Problem #13
+Write a `C++` program to print the following `star patterns` on the terminal using `loops`.
+```cpp
+***********     *               ***********
+***********     ***             *********
+***********     *****           *******    
+***********     *******         *****    
+***********     *********       ***        
+***********     ***********     *
 
+*                         *              *          
+***                     ***             ***         
+*****                 *****           *******               
+*******             *******         ***********             
+*********         *********       ***************                   
+***********     ***********     *******************                 
+*********         *********       ***************                   
+*******             *******         ***********             
+*****                 *****           *******               
+***                     ***             ***         
+*                         *              *
 
+     *          ***********
+    ***          *********
+   *****          *******    
+  *******          *****    
+ *********          ***    
+***********          * 
+
+```
 
