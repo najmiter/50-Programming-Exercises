@@ -14,6 +14,16 @@ Reverse any given `string` and store the result in the same variable.
 Write a `C++` program that will find a given character from any given `string`. If the character occurs more than once, you must only return the first occurrence’s `index`.
 ## Problem #07
 Write a `C++` program that takes a character and finds that character in the `string` using the function implemented in Problem #06 and removes that character from the `string`.
+## Problem #08
+Write a `C++` program that takes two `string` objects and compares them. It should `return true` if they are the same and `false` otherwise.
+## Problem #09
+Given any `string`, calculate the total number of words in the `string`.
+## Problem #10
+Write a `C++` program that converts lower-case characters in a `string` to upper-case chars and upper-case chars to lower-case.
+## Problem #11
+Write a `C++` program to check if a number is `prime` or not. Then write another function that takes boundaries and prints all the prime numbers between those boundaries.
+## Problem #12
+Write a `C++` program that prints the `nth` term of the `Fibonacci Series`. Then write another function that prints the first `n` terms of the `Fibonacci Series`.
 
 
 
