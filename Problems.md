@@ -85,5 +85,35 @@ Write a `C++` program that checks if an *`array` is sorted or not*. By default, 
 Write a `C++` program that, given a `string`, prints the **ASCII** values of each character. Then write another function that will print the character only if its ASCII value is **even**.
 ## Problem #25
 Implement a `C++` function that takes a `string` as an input and checks if the `string` **contains a valid number or not**. For example, `“12345”` is a valid number. Whereas, `“123a45”` is not.
+## Problem #26
+Extend the previous problem and implement another function that checks for a `valid binary number`. For example, `“101101”` is a valid binary number. Whereas, `“101134”` is not.
+## Problem #27
+Implement a `C++` function that converts a decimal digit into binary and `return`s the number as a `string`. For example, if the caller passes thee number `16`, your code should produce a `string` that looks like, `“10000”`.
+## Problem #28
+Implement a `C++` function that does the reverse of the previous problem; this time, convert a binary number to a decimal number. Accept the binary number as a `string` and `return` an integer. For example, if the caller passes `“10000”`, your code should `return` `16`.
+## Problem #29
+Similar to the previous problems, now take a `string` (a valid number) and convert it into an integer. For example, `“123”` should `return` `123`.
+## Problem #30
+While we’re at it, take an integer and convert it into a `string`. For example, `123` should produce a `string` with the value of `“123”`.
+## Problem #31
+Write a `C++` program that **counts the number of digits** in an integer.
+## Problem #32
+Write a `C++` program that **sums** of all the digits in an integer. For example, `453` will `return` `12` (i.e., 4 + 5 + 3 = 12).
+## Problem #33
+Write a `C++` program that reverses an integer. For example, `389` would become `983`.
+## Problem #34
+The national **identity number** of some country is `14` digits long. If the number ends with an *odd number*, it’s a *male* and if the last digit is an *even number*, it’s a *female*. Write a `C++` program that, given an ID number, finds out what gender that number belongs to.
+## Problem #35
+Write a `C++` to implement your own `ceil` and `floor` functions. For example, given a number `2.3`; applying `ceil(number)` would `return` `3` and calling `floor(number)` would give us `2`.
+## Problem #36
+Noor has `x` and `y` coins. The `x` is a 10-rupee coin and the `y` is a 5-rupee coin. Noor wants to buy chocolates that cost `z` rupee each. Write a `C++` program to help Noor figure out how much chocolates can be bought. ***(Inspired by a problem on [CodeChef](https://codechef.com/))***
+## Problem #37
+Noor and Haider are playing Badminton. Every player serves twice before service changes. At every serve, one of the players gets a score. After playing for some time, Noor and Haider forget whose serve it is. All they do know is their scores. Write a `C++` program to help them figure out who will serve based on their current score. ***(Inspired by a problem on [CodeChef](https://codechef.com/))***
+## Problem #38
+Let’s do some more conversions! This time, take a `string` that contains a `float`/`double`. Then convert that `string` into an actual `float`/`double`. For example, `“12.321”` should `return` `12.321`.
+## Problem #39
+Do the opposite operation for the previous problem as well. For example, convert `79.043` to `“79.043”`.
+## Problem #40
+Write a `C++` program to concatenate two C-style strings. You may also use standard `string` but if you use the `std::string`, you’re not allowed to use its overloaded operators like `+=`.
 
 
