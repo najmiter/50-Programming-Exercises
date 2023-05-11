@@ -138,3 +138,9 @@ Use type casting to convert an address to a simple integer and store the value i
 Write a `C++` to change the lower 2 bytes of a **32-bit integer** using `void` pointers. Then print the result of the actual integer and also print the lower 2 bytes of that integer.
 ## Problem #50
 Write a `C++` program that allocates a one-dimensional array on the heap and prints its values like a two-dimensional array. Do this process in a function, of course. Your function will take the pointer to the `array`, `size` of the array, number of `rows`, and the number of `columns`. If the number of `rows * columns` is not equal to the `size` of the `array`, don’t print anything, just `return` from the function with an ***error***.
+
+# Conclusion
+If you didn't just scroll down to this point and actually finished solving all the above problems, congratulations! You did great!
+These exercises were assembled by [**CodeMite**](https://www.youtube.com/najmiter?sub_confirmation=1) for its viewers to practice programming.
+And if you don't already know, and you understand Hindi/Urdu languages, I also have a video where I solve all of these problems on YouTube. You can [**CLICK HERE**](https://youtu.be/RuoeZTrHjrc) to check it out!
+Also if you're sharing this page with someone, please also recommend them my channel for learning more. It'll mean a lot ❤️.
