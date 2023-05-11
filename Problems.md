@@ -115,5 +115,26 @@ Let’s do some more conversions! This time, take a `string` that contains a `fl
 Do the opposite operation for the previous problem as well. For example, convert `79.043` to `“79.043”`.
 ## Problem #40
 Write a `C++` program to concatenate two C-style strings. You may also use standard `string` but if you use the `std::string`, you’re not allowed to use its overloaded operators like `+=`.
-
-
+## Problem #41
+Write a `C++` program that checks if the **password is strong or not**. A strong password must have:
+- At least 8 characters.
+- At least one digit.
+- At least one upper-case alphabet.
+## Problem #42
+Write a `C++` program to generate a strong password that has all the characteristics mentioned in the previous problem.
+## Problem #43
+Write a `C++` program to `find` the number of times a value occurred in an `array`.
+## Problem #44
+Write a `C++` program to `remove` all the duplicate values from an `array` of integers. For example, `{3, 5, 1, 0, 7, 3, 0, 4}` should become `{5, 1, 7, 4}`.
+## Problem #45
+Write a `C++` program to implement a function that mimics the built-in `std::pow`. You don’t have to implement it for floating values. Do it only for the integers.
+## Problem #46
+Write a `C++` program to `sort` an `array` of values. The default would be to `sort` in *ascending order*. Give the caller an option to `sort` it in *descending order* as well.
+## Problem #47
+Write a `C++` program to check if two arrays of integers are equal or not.
+## Problem #48
+Use type casting to convert an address to a simple integer and store the value in another variable. Then use type casting again to treat it like an address to read/write at that memory.
+## Problem #49
+Write a `C++` to change the lower 2 bytes of a **32-bit integer** using `void` pointers. Then print the result of the actual integer and also print the lower 2 bytes of that integer.
+## Problem #50
+Write a `C++` program that allocates a one-dimensional array on the heap and prints its values like a two-dimensional array. Do this process in a function, of course. Your function will take the pointer to the `array`, `size` of the array, number of `rows`, and the number of `columns`. If the number of `rows * columns` is not equal to the `size` of the `array`, don’t print anything, just `return` from the function with an ***error***.
