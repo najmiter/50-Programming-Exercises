@@ -141,6 +141,8 @@ Write a `C++` program that allocates a one-dimensional array on the heap and pri
 
 # Conclusion
 If you didn't just scroll down to this point and actually finished solving all the above problems, congratulations! You did great!
+
 These exercises were assembled by [**CodeMite**](https://www.youtube.com/najmiter?sub_confirmation=1) for its viewers to practice programming.
+
 And if you don't already know, and you understand Hindi/Urdu languages, I also have a video where I solve all of these problems on YouTube. You can [**CLICK HERE**](https://youtu.be/RuoeZTrHjrc) to check it out!
 Also if you're sharing this page with someone, please also recommend them my channel for learning more. It'll mean a lot ❤️.
